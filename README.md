@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<div align="center">
+  <img  src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN1u1zGRtylQji2JsQ3mu2USZgvc-BuvareszH-aq9q4QSeNCQIOAD-agYnOYBa9bC0CefgvPU9DkUYTkh0NTlubmuHuXvrCwt6b2F3Iz9EIVIIPt5QYrVeNJfCQPRhQTGmkN9PC_fraM/s1600/image1.gif"/>
+</div>  
 <!--
 **nraihze/nraihze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
