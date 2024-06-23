@@ -5,10 +5,6 @@
 ---
 
 <img src="https://img.shields.io/github/stars/nraihze?style=social"/><img src="https://img.shields.io/github/followers/nraihze?style=social"/>
-
-
-
-
 <div align="right">
 <a href="#"><img width="40%" height="auto" src="https://github.com/ASISHGOUDA/ASISHGOUDA/blob/master/gifi.gif" height="50%" /></a>
 </div>  
