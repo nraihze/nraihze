@@ -4,9 +4,11 @@
 
 ---
 
-<img src="https://img.shields.io/github/stars/nraihze?style=social"/><img src="https://img.shields.io/github/followers/nraihze?style=social"/>
+<img src="https://img.shields.io/github/stars/nraihze?style=social"/><img src="https://img.shields.io/github/followers/nraihze?style=social"/><a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a><img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
+
 <div align="right">
-<a href="#"><img width="40%" height="auto" src="https://github.com/ASISHGOUDA/ASISHGOUDA/blob/master/gifi.gif" height="50%" /></a>
+  
+  <a href="#"><img width="40%" height="auto" src="https://github.com/ASISHGOUDA/ASISHGOUDA/blob/master/gifi.gif" height="50%" /></a>
 </div>  
 <!--
 **nraihze/nraihze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
