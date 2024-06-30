@@ -5,11 +5,18 @@
 ---
 
 <img src="https://img.shields.io/github/stars/nraihze?style=social"/><img src="https://img.shields.io/github/followers/nraihze?style=social"/><a href="https://github.com/BEPb/BEPb"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a><img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
-
-<div align="right">
-  
+<p align="left">
+Hello everyone,
+Welcome to my profile.
+I am Naser, I have studied Computer Engineering, and I am also interested in studying Software Engineering.
+At university, I encountered Android programming and learned the two essential languages for Android development: Kotlin and Java. Android programming was so fascinating to me that I have planned to pursue it as my future career to become an Android developer.
+My expertise is in developing Android applications using Kotlin and Java, and I have experience working with tools like Android Studio, Git, RESTful APIs, and Firebase. During my career, I have worked on various projects from user interface design (UI/UX) to app performance optimization.
+I am looking for new opportunities to apply my skills and professional development in the field of Android programming. With the experience and technical knowledge I have, I hope I can achieve more growth and success in Android projects.</p>
+<div align="right">  
   <a href="#"><img width="40%" height="auto" src="https://github.com/ASISHGOUDA/ASISHGOUDA/blob/master/gifi.gif" height="50%" /></a>
-</div>  
+</div> 
+
+
 <!--
 **nraihze/nraihze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
