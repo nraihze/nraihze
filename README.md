@@ -19,23 +19,14 @@ I am looking for new opportunities to apply my skills and professional developme
 - 👯 I’m looking to collaborate on In your team, if you wish, you can consider me as your member.
   
 - 💬 Ask me about my projects, how I can optimize them
-<div align="right">  
-  <a href="#"><img width="40%" height="auto" src="https://github.com/ASISHGOUDA/ASISHGOUDA/blob/master/gifi.gif" height="50%" /></a>
+<div align="left">  
+
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)               <a href="#"><img width="40%" height="auto" src="https://github.com/ASISHGOUDA/ASISHGOUDA/blob/master/gifi.gif" height="50%" /></a>
+
+ 
 </div> 
 
 
-<!--
-**nraihze/nraihze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
