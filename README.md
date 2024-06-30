@@ -29,6 +29,7 @@ I am looking for new opportunities to apply my skills and professional developme
 
 ---
 
+ <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davevad93&theme=onedark&rank=-C" alt="davevad93" /></a></p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="80" alt="kotlin logo"  />
