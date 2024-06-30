@@ -27,6 +27,9 @@ I am looking for new opportunities to apply my skills and professional developme
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)  <a href="#"><img width="40%" height="auto" src="https://github.com/ASISHGOUDA/ASISHGOUDA/blob/master/gifi.gif" height="100%" /></a>
 </div> 
 
+---
+
+
 
 
 
