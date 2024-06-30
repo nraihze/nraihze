@@ -15,10 +15,10 @@ I am looking for new opportunities to apply my skills and professional developme
 - 🔭 I’m currently working on Practical and small projects
 
 - 🌱 I’m currently learning in the field of Android development
-- 
+
 - 👯 I’m looking to collaborate on In your team, if you wish, you can consider me as your member.
   
-- 💬 Ask me about ...
+- 💬 Ask me about my projects, how I can optimize them
 <div align="right">  
   <a href="#"><img width="40%" height="auto" src="https://github.com/ASISHGOUDA/ASISHGOUDA/blob/master/gifi.gif" height="50%" /></a>
 </div> 
