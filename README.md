@@ -41,6 +41,22 @@ I am looking for new opportunities to apply my skills and professional developme
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="80" alt="git logo"  />
 </div>
 
+---
+
+## **Connect with me 👇**
+<p align="center">
+<a href="https://github.com/mdhachem"><img src="https://user-images.githubusercontent.com/58532023/171219272-a68dd897-a9c7-4826-b7e6-10ef84e6a0a8.png" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/mohamed-dhia-hachem-073888150/"><img src="https://user-images.githubusercontent.com/58532023/171219303-8839f911-21bf-453f-b517-9dd6ef9a873c.png" alt="LinkedIn"/></a>
+<a href=""><img src="https://user-images.githubusercontent.com/58532023/171219320-cc1517cb-54a9-470c-a92d-965524a7b3aa.png" alt="Instagram"/></a>
+<a href=""><img src="https://user-images.githubusercontent.com/58532023/171218519-2ccc030a-72b5-45ea-a2ec-7f1dfbef917f.png" alt="Twitter"/></a>
+</p>
+
+---
+
+<br><br>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
+<br><br>
+
 ![GitHub Banner](https://github.com/virtualvivek/virtualvivek/blob/main/assets/anim_octo_dark.gif?raw=true)
 
 ![github-contribution-grid-snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
