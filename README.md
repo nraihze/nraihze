@@ -41,6 +41,6 @@ I am looking for new opportunities to apply my skills and professional developme
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="80" alt="git logo"  />
 </div>
 
+![GitHub Banner](https://github.com/virtualvivek/virtualvivek/blob/main/assets/anim_octo_dark.gif?raw=true)
 
-
-
+![github-contribution-grid-snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
