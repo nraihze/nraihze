@@ -65,3 +65,5 @@ I am looking for new opportunities to apply my skills and professional developme
 
 <h3 align="left">Languages and Tools:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattacini&layout=compact&show_icons=true&theme=nord&count_private=true" alt="pattacini" /></p>
+
+![github-contribution-grid-snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
