@@ -57,7 +57,7 @@ I am looking for new opportunities to apply my skills and professional developme
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 <br><br>
 
-![GitHub Banner](https://github.com/virtualvivek/virtualvivek/blob/main/assets/anim_octo_dark.gif?raw=true)
+
 
 
 
@@ -65,5 +65,7 @@ I am looking for new opportunities to apply my skills and professional developme
 
 <h3 align="left">Languages and Tools:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattacini&layout=compact&show_icons=true&theme=nord&count_private=true" alt="pattacini" /></p>
+
+![GitHub Banner](https://github.com/virtualvivek/virtualvivek/blob/main/assets/anim_octo_dark.gif?raw=true)
 
 ![github-contribution-grid-snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
