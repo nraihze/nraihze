@@ -60,7 +60,6 @@ I am looking for new opportunities to apply my skills and professional developme
 
 
 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pattacini&theme=nord" alt="pattacini" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
